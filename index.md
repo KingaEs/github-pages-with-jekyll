@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Cześć przedstawiam się
 
-I'm glad you are here. I plan to talk about ...
+Pokaże, kilk zagadnień na egzamin
